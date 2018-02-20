@@ -1,5 +1,5 @@
-## ArchTEx
-#Accurate Extraction and Visualization of Next-Generation Sequence data
+# ArchTEx
+## Accurate Extraction and Visualization of Next-Generation Sequence data
 
 https://www.ncbi.nlm.nih.gov/pubmed/22302569
 
